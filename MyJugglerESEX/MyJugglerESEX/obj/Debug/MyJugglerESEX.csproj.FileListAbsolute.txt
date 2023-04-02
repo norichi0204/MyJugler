@@ -1,0 +1,10 @@
+C:\Users\noric\Desktop\自作ソフト類\システムプログラム\MyJugglerESEX\Test\MyJugglerESEX.exe.config
+C:\Users\noric\Desktop\自作ソフト類\システムプログラム\MyJugglerESEX\Test\MyJugglerESEX.exe
+C:\Users\noric\Desktop\自作ソフト類\システムプログラム\MyJugglerESEX\Test\MyJugglerESEX.pdb
+C:\Users\noric\Desktop\自作ソフト類\システムプログラム\MyJugglerESEX\MyJugglerESEX\obj\Debug\MyJugglerESEX.csproj.AssemblyReference.cache
+C:\Users\noric\Desktop\自作ソフト類\システムプログラム\MyJugglerESEX\MyJugglerESEX\obj\Debug\MyJugglerESEX.Properties.Resources.resources
+C:\Users\noric\Desktop\自作ソフト類\システムプログラム\MyJugglerESEX\MyJugglerESEX\obj\Debug\MyJugglerESEX.csproj.GenerateResource.cache
+C:\Users\noric\Desktop\自作ソフト類\システムプログラム\MyJugglerESEX\MyJugglerESEX\obj\Debug\MyJugglerESEX.csproj.CoreCompileInputs.cache
+C:\Users\noric\Desktop\自作ソフト類\システムプログラム\MyJugglerESEX\MyJugglerESEX\obj\Debug\MyJugglerESEX.csproj.CopyComplete
+C:\Users\noric\Desktop\自作ソフト類\システムプログラム\MyJugglerESEX\MyJugglerESEX\obj\Debug\MyJugglerESEX.exe
+C:\Users\noric\Desktop\自作ソフト類\システムプログラム\MyJugglerESEX\MyJugglerESEX\obj\Debug\MyJugglerESEX.pdb
